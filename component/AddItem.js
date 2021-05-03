@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
         height: 60,
         padding: 8,
         margin: 16,
+        fontSize: 17,
     },
     btn: {
         backgroundColor: "#c2bad8",

@@ -26,9 +26,10 @@ const styles = StyleSheet.create({
     },
     listItemText: {
         fontSize: 18,
+        paddingLeft: 10
     },
     delete: {
-        fontSize: 20,
+        fontSize: 25,
         color: "firebrick",
     },
 });
